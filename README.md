@@ -58,6 +58,6 @@ BankingSystemGUI/
 
 - Transfer Money between accounts
 ## 📷 Screenshots
-![Main GUI](Screenshots/Main GUI.png)
+![Main GUI](Screenshots/Main_GUI.png)
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
